@@ -1,5 +1,4 @@
 
-![Screenshot_8](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/1a8c8595-ed25-4731-bc93-f248f48aebda)
 
 # Student Management System 📚
 
