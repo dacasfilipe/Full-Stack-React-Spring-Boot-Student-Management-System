@@ -41,16 +41,14 @@ A Full-stack web application built using React and Spring Boot for managing stud
 
 Before running this application, ensure that you have the following prerequisites in place:
 
-- Java Development Kit (JDK) 8 or above
+- Java Development Kit (JDK) 17 or above 
 - Node.js and npm (Node Package Manager)
 - MySQL database with a designated schema named "student_management_system"
+- Spring Version 3.3.4
 
 **Setup:**
 
-First clone this repository.
-```bash
-$ git clone https://github.com/LuisSalas94/Student-Management-System
-```
+
 **Set Up the MySQL Database:**
 
 - Create a MySQL database named "student_management_system".
@@ -69,22 +67,6 @@ $ git clone https://github.com/LuisSalas94/Student-Management-System
 
 With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally.
 
-## Author 👤
-
-- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
-- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
-- Medium: [Fernando Salas](https://medium.com/@luisfernandosalasg)
-- Portfolio: [Link](https://fernando-salas-portfolio.netlify.app/)
-
-## Contributing 🤝
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## License 📝
 
